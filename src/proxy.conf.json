@@ -1,0 +1,9 @@
+{
+    "/api/*":{
+        "target": "https://api-folio.herokuapp.com",
+        "secure": false,
+        "logLevel": "debug",
+        "changeOrigin": true
+    }
+
+}
